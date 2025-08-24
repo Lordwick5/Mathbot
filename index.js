@@ -8,3 +8,8 @@ console.log("The Math.random() method returns a pseudo random number between 0 a
 let randomNum = Math.random();
 
 console.log(randomNum);
+
+console.log("Now, generate a random number between two values.");
+
+let min = 1;
+let max = 100;
