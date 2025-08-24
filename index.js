@@ -35,3 +35,9 @@ console.log(numRounded);
 
 let numRounded2 = Math.round(11.2);
 console.log(numRounded2);
+
+let maxNum = Math.max(3, 125, 55, 24);
+console.log(maxNum);
+
+let minNum = Math.min(6, 90, 14, 90, 2);
+console.log(minNum);
