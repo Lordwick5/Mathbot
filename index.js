@@ -2,3 +2,9 @@ const botName = "MathBot";
 const greeting = `Hi there! My name is ${botName} and I am here to teach you about the Math object!`;
 
 console.log(greeting);
+
+console.log("The Math.random() method returns a pseudo random number between 0 and less than 1.");
+
+let randomNum = Math.random();
+
+console.log(randomNum);
